@@ -1,16 +1,26 @@
-### Hi there 👋
+# Teiva Harsanyi
 
-<!--
-**teivah/teivah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software engineer specialized in backend development and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have extensive experience in designing and implementing resilient, responsive, scalable and maintainable systems.
+
+I love learning, sharing and facing challenges. Last but not least, I am also an open-source enthusiast.
+
+Main interests:
+* Clean code 🧽
+* Resiliency 🧱
+* Performance / Scalability ⚡
+* Observability 👀
+
+Languages: Go, Rust & Java
+
+Spoken languages: 🇬🇧 🇫🇷 
+
+## Get in Touch
+
+* Twitter: [@teivah](https://twitter.com/teivah)
+* Blog: [blog.teivah.io](http://blog.teivah.io)
+* Resume: [teivah.io](http://teivah.io)
+* Linkedin: [linkedin.com/in/teiva-harsanyi/](https://www.linkedin.com/in/teiva-harsanyi/)
