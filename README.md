@@ -22,5 +22,6 @@ Spoken languages: 🇬🇧 🇫🇷
 
 * Twitter: [@teivah](https://twitter.com/teivah)
 * Blog: [blog.teivah.io](http://blog.teivah.io)
+* Talks: [github.com/teivah/talks](https://github.com/teivah/talks)
 * Resume: [teivah.io](http://teivah.io)
 * Linkedin: [linkedin.com/in/teiva-harsanyi/](https://www.linkedin.com/in/teiva-harsanyi/)
