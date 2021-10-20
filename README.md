@@ -33,3 +33,6 @@ The book’s main idea is to list 100 of the most common mistakes made by Go dev
 * Talks: [github.com/teivah/talks](https://github.com/teivah/talks)
 * Resume: [teivah.io](http://teivah.io)
 * Linkedin: [linkedin.com/in/teiva-harsanyi/](https://www.linkedin.com/in/teiva-harsanyi/)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=teivah&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=teivah&langs_count=5&theme=tokyonight)]()
