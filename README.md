@@ -10,7 +10,7 @@ I love learning, sharing and facing challenges. Last but not least, I am also an
 
 Main interests:
 * Clean code 🧽
-* Resiliency 🧱
+* Reliability 🧱
 * Performance / Scalability ⚡
 * Observability 👀
 
