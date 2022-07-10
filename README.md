@@ -2,11 +2,7 @@
 
 ## About Me
 
-I'm a software engineer specialized in backend development and distributed systems.
-
-I have extensive experience in designing and implementing resilient, responsive, scalable and maintainable systems.
-
-I love learning, sharing and facing challenges. Last but not least, I am also an open-source enthusiast.
+I'm a software engineer specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
 
 Main interests:
 * Clean code 🧽
@@ -14,17 +10,17 @@ Main interests:
 * Performance / Scalability ⚡
 * Observability 👀
 
-Languages: Go, Rust & Java
+Languages: Go, Rust, Java
 
-Spoken languages: 🇬🇧 🇫🇷 
+Spoken languages: 🇬🇧, 🇫🇷 
 
 ## 100 Go Mistakes
 
 ![](DOTD_NewMEAP_Harsanyi.png)
 
-I'm currently writing a book with Manning that will be published in 2022: [100 Go Mistakes](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them).
+I'm currently writing a book with Manning that will be published in August/September 2022: 100 Go Mistakes.
 
-The book’s main idea is to list 100 of the most common mistakes made by Go developers in various aspects of the language. Each mistake will be illustrated as far as possible with real-life examples. It should help Go developers in working smarter, not harder.
+The main idea is to list 100 of the most common mistakes made by Go developers in various aspects of the language: code and project organization, data structure, loops, error management, concurrency, testing, optimizations, etc.
 
 ## Get in Touch
 
