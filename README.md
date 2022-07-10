@@ -18,7 +18,7 @@ Spoken languages: 🇬🇧, 🇫🇷
 
 ![](DOTD_NewMEAP_Harsanyi.png)
 
-I'm currently writing a book with Manning that will be published in August/September 2022: 100 Go Mistakes.
+I'm currently writing a book with Manning that will be published in August/September 2022: [100 Go Mistakes](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them).
 
 The main idea is to list 100 of the most common mistakes made by Go developers in various aspects of the language: code and project organization, data structure, loops, error management, concurrency, testing, optimizations, etc.
 
