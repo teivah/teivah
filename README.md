@@ -10,17 +10,17 @@ Main interests:
 * Performance / Scalability ⚡
 * Observability 👀
 
-Languages: Go, Rust, Java
+Languages: Go, Rust (learning), Java, Scala
 
 Spoken languages: 🇬🇧, 🇫🇷 
 
-## 100 Go Mistakes
+## 📖 100 Go Mistakes and How to Avoid Them
 
-![](DOTD_NewMEAP_Harsanyi.png)
+![](cover.png)
 
-I'm currently writing a book with Manning that will be published in August/September 2022: [100 Go Mistakes](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them).
+I'm the author of _100 Go Mistakes and How to Avoid Them_ published by Manning in 2022: https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them.
 
-The main idea is to list 100 of the most common mistakes made by Go developers in various aspects of the language: code and project organization, data structure, loops, error management, concurrency, testing, optimizations, etc.
+> _100 Go Mistakes and How to Avoid Them_ shows you how to replace common programming problems in Go with idiomatic, expressive code. In it, you’ll explore dozens of interesting examples and case studies as you learn to spot mistakes that might appear in your own applications.
 
 ## Get in Touch
 
@@ -29,3 +29,4 @@ The main idea is to list 100 of the most common mistakes made by Go developers i
 * Talks: [github.com/teivah/talks](https://github.com/teivah/talks)
 * Resume: [teivah.io](http://teivah.io)
 * Linkedin: [linkedin.com/in/teiva-harsanyi/](https://www.linkedin.com/in/teiva-harsanyi/)
+* Codementor: [codementor.io/@teivaharsanyi](https://www.codementor.io/@teivaharsanyi)
