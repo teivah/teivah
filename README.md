@@ -18,6 +18,8 @@ Spoken languages: 🇬🇧, 🇫🇷
 
 ![](cover.png)
 
+![](cover2.png)
+
 I'm the author of _100 Go Mistakes and How to Avoid Them_ published by Manning in 2022: https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them.
 
 > _100 Go Mistakes and How to Avoid Them_ shows you how to replace common programming problems in Go with idiomatic, expressive code. In it, you’ll explore dozens of interesting examples and case studies as you learn to spot mistakes that might appear in your own applications.
