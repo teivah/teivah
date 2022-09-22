@@ -30,8 +30,3 @@ I'm the author of _[100 Go Mistakes and How to Avoid Them](https://www.manning.c
 * Resume: [teivah.io](http://teivah.io)
 * Linkedin: [linkedin.com/in/teiva-harsanyi/](https://www.linkedin.com/in/teiva-harsanyi/)
 * Codementor: [codementor.io/@teivaharsanyi](https://www.codementor.io/@teivaharsanyi)
-
-
-## GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=teivah&show_icons=true&include_all_commits=true&hide_title=true" />
