@@ -8,6 +8,6 @@ Main interests:
 * Reliability
 * Observability
 
-Meanwhile, I'm the author of _[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)_ published by Manning in 2022:
+Meanwhile, I'm the author of _[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)_ published by Manning in 2022.
 
 ![](100-go-mistakes.png)
