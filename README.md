@@ -24,8 +24,8 @@ Rust:
 * [franz](https://github.com/teivah/franz): A collection of Kafka utility tools (load testing, replication)
 
 Challenges:
-* [advent-of-code](https://github.com/teivah/advent-of-code): My solutions to the [Advent Of Code](https://adventofcode.com/), from 2015 to 2022
-* [gossip-glomers](https://github.com/teivah/gossip-glomers): My solutions to the [Glomers Challenge](https://fly.io/dist-sys/): a series of distributed systems challenges
+* [advent-of-code](https://github.com/teivah/advent-of-code): My solutions to the [Advent Of Code](https://adventofcode.com/) from 2015 to 2022
+* [gossip-glomers](https://github.com/teivah/gossip-glomers): My solutions to [Gossip Glomers](https://fly.io/dist-sys/), a series of distributed systems challenges
 
 Others:
 * [talks](https://github.com/teivah/talks): My public talks
