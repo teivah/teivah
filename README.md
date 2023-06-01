@@ -19,8 +19,8 @@ Go:
 * [go-bbl](https://github.com/teivah/go-bbl): Brown Bag Lunch on Go
 
 Rust:
-* [rust-cheat-sheet](https://github.com/teivah/rust-cheat-sheet): Rust Language Cheat Sheet
-* [majorana](https://github.com/teivah/majorana): A RISC-V virtual processor, written in Rust
+* [rust-cheat-sheet](https://github.com/teivah/rust-cheat-sheet): Rust language cheat sheet
+* [majorana](https://github.com/teivah/majorana): A RISC-V virtual processor
 * [franz](https://github.com/teivah/franz): A collection of Kafka utility tools (load testing, replication)
 
 Challenges:
@@ -29,5 +29,5 @@ Challenges:
 
 Others:
 * [talks](https://github.com/teivah/talks): My public talks
-* [algodeck](https://github.com/teivah/algodeck) & [designdeck](https://github.com/teivah/designdeck): Open-Source collections of flash cards to help developers preparing their algorithms & system desigm interview
+* [algodeck](https://github.com/teivah/algodeck) & [designdeck](https://github.com/teivah/designdeck): Open-Source collections of flash cards to help developers preparing their algorithm & system design interview
 * [docker-kafka](https://github.com/teivah/docker-kafka): Simple Docker image for Kafka, pulled +250k times
