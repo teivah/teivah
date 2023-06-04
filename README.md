@@ -19,7 +19,7 @@ Go:
 * [go-bbl](https://github.com/teivah/go-bbl): Brown Bag Lunch on Go
 
 Rust:
-* [rust-cheat-sheet](https://github.com/teivah/rust-cheat-sheet): Rust language cheat sheet
+* [rust-cheatsheet](https://github.com/teivah/rust-cheatsheet): Rust language cheat sheet
 * [majorana](https://github.com/teivah/majorana): A RISC-V virtual processor
 * [franz](https://github.com/teivah/franz): A collection of Kafka utility tools (load testing, replication)
 
