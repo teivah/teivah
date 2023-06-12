@@ -9,7 +9,7 @@ Home page: [teivah.io](https://teivah.github.io/)
 ## Main repositories:
 
 Go:
-* [100-go-mistales](https://github.com/teivah/100-go-mistakes): The official repository of 100 Go Mistakes and How to Avoid Them
+* [100-go-mistakes](https://github.com/teivah/100-go-mistakes): The official repository of 100 Go Mistakes and How to Avoid Them
 * [broadcast](https://github.com/teivah/broadcast): Notification broadcaster library
 * [onecontext](https://github.com/teivah/onecontext): Set of Go context's utilities
 * [bitvector](https://github.com/teivah/bitvector): Static bit vector structures library
