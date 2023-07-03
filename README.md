@@ -34,12 +34,8 @@ Others:
 
 ## Programming Languages
 
-Java whispers in objects, elegant and strong.
-
-Scala dances with patterns, concise all along.
-
-Go strides with concurrency, simplicity its song.
-
-Rust crafts safety, code resilient and lifelong.
-
-Python invites with ease, readability never wrong.
+* Java whispers in objects, elegant and strong.
+* Scala dances with patterns, concise all along.
+* Go strides with concurrency, simplicity its song.
+* Rust crafts safety, code resilient and lifelong.
+* Python invites with ease, readability never wrong.
