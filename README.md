@@ -31,3 +31,15 @@ Others:
 * [talks](https://github.com/teivah/talks): My public talks
 * [algodeck](https://github.com/teivah/algodeck) & [designdeck](https://github.com/teivah/designdeck): Open-Source collections of flash cards to help developers preparing their algorithm & system design interview
 * [docker-kafka](https://github.com/teivah/docker-kafka): Simple Docker image for Kafka, pulled +250k times
+
+## Programming Languages
+
+Java whispers in objects, elegant and strong.
+
+Scala dances with patterns, concise all along.
+
+Go strides with concurrency, simplicity its song.
+
+Rust crafts safety, code resilient and lifelong.
+
+Python invites with ease, readability never wrong.
