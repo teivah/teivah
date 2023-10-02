@@ -30,7 +30,7 @@ Challenges:
 Others:
 * [talks](https://github.com/teivah/talks): My public talks
 * [algodeck](https://github.com/teivah/algodeck) & [designdeck](https://github.com/teivah/designdeck): Open-Source collections of flash cards to help developers preparing their algorithm & system design interview
-* [sre-roadmap](https://github.com/teivah/sre-roadmap): An Opinionated Roadmap to Become an SRE
+* [sre-roadmap](https://github.com/teivah/sre-roadmap): An opinionated roadmap to become an SRE
 * [docker-kafka](https://github.com/teivah/docker-kafka): Simple Docker image for Kafka, pulled +250k times
 
 ## Programming Languages
