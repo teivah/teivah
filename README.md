@@ -35,8 +35,6 @@ Others:
 
 ## Programming Languages
 
-* _Java_ whispers in objects, elegant and strong
-* _Scala_ dances with patterns, concise all along
-* _Go_ strides with concurrency, simplicity its song
-* _Rust_ crafts safety, code resilient and lifelong
-* _Python_ invites with ease, readability never wrong
+The programming languages on which I built at least some basic foundations:
+
+![](https://img.shields.io/badge/Java-4D66A9) ![](https://img.shields.io/badge/Scala-DF3A2A) ![](https://img.shields.io/badge/Go-007D9C) ![](https://img.shields.io/badge/Rust-F75208) ![](https://img.shields.io/badge/Python-FFCD3A) ![](https://img.shields.io/badge/Haskell-FF66FF)
