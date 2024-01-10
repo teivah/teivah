@@ -8,16 +8,7 @@ I'm also the author of 📖 _[100 Go Mistakes and How to Avoid Them](https://www
 [![](https://img.shields.io/badge/Blog-blog.teivah.io-white?logo=medium)](http://blog.teivah.io)
 [![](https://img.shields.io/badge/twitter-@teivah-blue?logo=twitter)](https://twitter.com/teivah)
 
-The programming languages on which I built at least some basic foundations:
-
-![](https://img.shields.io/badge/Java-4D66A9?logo=jameson)
-![](https://img.shields.io/badge/Scala-DF3A2A?logo=scala)
-![](https://img.shields.io/badge/Go-007D9C?logo=go)
-![](https://img.shields.io/badge/Rust-F75208?logo=rust)
-![](https://img.shields.io/badge/Python-FFCD3A?logo=python)
-![](https://img.shields.io/badge/Haskell-FF66FF?logo=haskell)
-
-## Main repositories:
+## Main Repositories:
 
 General:
 * [talks](https://github.com/teivah/talks): My public talks
@@ -43,3 +34,14 @@ Rust:
 Challenges:
 * [advent-of-code](https://github.com/teivah/advent-of-code): My solutions to the [Advent Of Code](https://adventofcode.com/) from 2015 to 2023
 * [gossip-glomers](https://github.com/teivah/gossip-glomers): My solutions to [Gossip Glomers](https://fly.io/dist-sys/), a series of distributed systems challenges
+
+## Programming Languages
+
+The programming languages on which I built at least some basic foundations:
+
+![](https://img.shields.io/badge/Java-4D66A9?logo=jameson)
+![](https://img.shields.io/badge/Scala-DF3A2A?logo=scala)
+![](https://img.shields.io/badge/Go-007D9C?logo=go)
+![](https://img.shields.io/badge/Rust-F75208?logo=rust)
+![](https://img.shields.io/badge/Python-FFCD3A?logo=python)
+![](https://img.shields.io/badge/Haskell-FF66FF?logo=haskell)
