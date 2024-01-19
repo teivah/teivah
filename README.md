@@ -31,6 +31,12 @@ Rust:
 * [majorana](https://github.com/teivah/majorana): A RISC-V virtual processor
 * [franz](https://github.com/teivah/franz): A collection of Kafka utility tools (load testing, replication)
 
+Haskell:
+* [haskell-cheatsheet](https://github.com/teivah/haskell-cheatsheet): Haskell language cheat sheet
+
+Python:
+* [python-cheatsheet](https://github.com/teivah/python-cheatsheet): Python language cheat sheet
+
 Challenges:
 * [advent-of-code](https://github.com/teivah/advent-of-code): My solutions to the [Advent Of Code](https://adventofcode.com/) from 2015 to 2023
 * [gossip-glomers](https://github.com/teivah/gossip-glomers): My solutions to [Gossip Glomers](https://fly.io/dist-sys/), a series of distributed systems challenges
