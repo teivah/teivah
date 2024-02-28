@@ -11,7 +11,6 @@ I'm also the author of 📖 _[100 Go Mistakes and How to Avoid Them](https://www
 ## Main Repositories:
 
 General:
-* [talks](https://github.com/teivah/talks): My public talks
 * [algodeck](https://github.com/teivah/algodeck) and [designdeck](https://github.com/teivah/designdeck): Open-Source collections of flash cards to help developers preparing their algorithm & system design interview
 * [sre-roadmap](https://github.com/teivah/sre-roadmap): An opinionated roadmap to become an SRE
 * [docker-kafka](https://github.com/teivah/docker-kafka): Simple Docker image for Kafka, pulled +250k times
