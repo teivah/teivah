@@ -5,7 +5,7 @@ I’m a software engineer specializing in distributed systems, scalability, reli
 I'm also the author of 📖 _[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)_.
 
 [![](https://img.shields.io/badge/Website-teivah.dev-E17E27?logo=homeadvisor)](http://teivah.dev)
-[![](https://img.shields.io/badge/Blog-blog.teivah.dev-white?logo=medium)](http://blog.teivah.dev)
+[![](https://img.shields.io/badge/Blog-teivah.dev/blog-white?logo=medium)](http://teivah.dev/blog)
 [![](https://img.shields.io/badge/twitter-@teivah-blue?logo=twitter)](https://twitter.com/teivah)
 
 ## Main Repositories:
