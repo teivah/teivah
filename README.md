@@ -19,6 +19,7 @@ Go:
 * [100-go-mistakes](https://github.com/teivah/100-go-mistakes): The official repository of 100 Go Mistakes and How to Avoid Them
 * [broadcast](https://github.com/teivah/broadcast): Notification broadcaster library
 * [onecontext](https://github.com/teivah/onecontext): Set of Go context's utilities
+* [go-lfu](https://github.com/teivah/go-lfu/): A Go library for handling LFU cache operations in O(1)
 * [bitvector](https://github.com/teivah/bitvector): Static bit vector structures library
 * [tourniquet](https://github.com/teivah/tourniquet): gRPC client-side load balancer
 * [multilock](https://github.com/teivah/multilock): A library to efficiently store a set of Mutex or RWMutex
