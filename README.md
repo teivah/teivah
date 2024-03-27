@@ -32,6 +32,7 @@ Go:
 * [tourniquet](https://github.com/teivah/tourniquet): gRPC client-side load balancer
 * [multilock](https://github.com/teivah/multilock): A library to efficiently store a set of Mutex or RWMutex
 * [resequencer](https://github.com/teivah/resequencer): Resequencer library
+* [ettore](https://github.com/teivah/ettore): A RISC-V virtual processor
 * [go-bbl](https://github.com/teivah/go-bbl): Brown Bag Lunch on Go
 
 Rust:
