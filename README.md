@@ -32,12 +32,12 @@ Go:
 * [tourniquet](https://github.com/teivah/tourniquet): gRPC client-side load balancer
 * [multilock](https://github.com/teivah/multilock): A library to efficiently store a set of Mutex or RWMutex
 * [resequencer](https://github.com/teivah/resequencer): Resequencer library
-* [ettore](https://github.com/teivah/ettore): A RISC-V virtual processor
+* [majorana](https://github.com/teivah/majorana): A RISC-V virtual processor
 * [go-bbl](https://github.com/teivah/go-bbl): Brown Bag Lunch on Go
 
 Rust:
 * [rust-cheatsheet](https://github.com/teivah/rust-cheatsheet): Rust language cheat sheet
-* [majorana](https://github.com/teivah/majorana): A RISC-V virtual processor
+* [ettore](https://github.com/teivah/ettore): A RISC-V virtual processor
 * [franz](https://github.com/teivah/franz): A collection of Kafka utility tools (load testing, replication)
 
 Haskell:
