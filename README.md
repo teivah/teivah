@@ -2,7 +2,7 @@
 
 I’m a software engineer specializing in distributed systems, scalability, reliability, and observability topics. I’m currently working at Google as a senior software engineer in the ML SRE team. Meanwhile, I love meeting challenges, learning, and sharing.
 
-I'm also the author of 📖 _[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)_.
+I'm also the author of _[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)_ and _[The Coder Cafe](https://thecoder.cafe)_ newsletter.
 
 [![](https://img.shields.io/badge/Newsletter-The%20Code%20Cafe-8d493a?logo=substack)](http://thecoder.cafe)
 [![](https://img.shields.io/badge/Blog-teivah.dev/blog-white?logo=medium)](http://teivah.dev/blog)
