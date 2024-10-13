@@ -59,4 +59,3 @@ The programming languages on which I built at least some basic foundations:
 ![](https://img.shields.io/badge/Rust-F75208?logo=rust)
 ![](https://img.shields.io/badge/Python-FFCD3A?logo=python)
 ![](https://img.shields.io/badge/Haskell-5e5086?logo=haskell)
-
