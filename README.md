@@ -47,6 +47,7 @@ Python:
 
 Challenges:
 * [advent-of-code](https://github.com/teivah/advent-of-code): My solutions to the [Advent Of Code](https://adventofcode.com/) from 2015 to 2023
+* [go-aoc](https://github.com/teivah/go-aoc): The library that I use to solve the Advent of Code
 * [gossip-glomers](https://github.com/teivah/gossip-glomers): My solutions to [Gossip Glomers](https://fly.io/dist-sys/), a series of distributed systems challenges
 
 ## Programming Languages
